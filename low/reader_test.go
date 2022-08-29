@@ -9,7 +9,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	squashfslow "github.com/CalebQ42/squashfs/low"
+	squashfslow "github.com/sylabs/squashfs/low"
 )
 
 const (
